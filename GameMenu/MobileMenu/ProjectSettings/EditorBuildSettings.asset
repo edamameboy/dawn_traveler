@@ -18,12 +18,11 @@ EditorBuildSettings:
     path: Assets/Scenes/SettingMenu.unity
     guid: 54b4f2f891ede6841a3d963c20ee4195
   - enabled: 1
-    path: Assets/Scenes/Terrain_Test.unity
-    guid: 86ff6afcf94fc50419f70ac374d255d5
+    path: Assets/Scenes/Map01.unity
+    guid: 19904882a0082114ea494bba27810b54
   - enabled: 1
-    path: Assets/Scenes/Terrain_City.unity
-    guid: 7bbbe0706ca66fc438716ef08ead0335
+    path: Assets/Scenes/Map02.unity
+    guid: 6a47e093d10d2234d91a1876ef12731c
   - enabled: 1
-    path: Assets/Scenes/Terrain_City2.unity
-    guid: 28eba37cb48b09b459ba49ca7ffc233b
-  m_configObjects: {}
+    path: Assets/Scenes/Map03.unity
+    guid: b8773c96d3b89e246b13ce98353c24b8

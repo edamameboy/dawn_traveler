@@ -8,10 +8,13 @@ public class MenuScript : MonoBehaviour {
 
     public void ChangeMenu(string sceneName)
     {
-
         SceneManager.LoadScene(sceneName);
         Debug.Log("New scene has loaded!");
+    }
 
+    public void PrevMenu()
+    {
+        
     }
 
     public void exitGame()
